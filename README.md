@@ -5,6 +5,8 @@ Installation
 
 Run 
 ------------
-`small_world_app()`
+`library(demoNetworks)
 
-`custom_app()`
+small_world_app()
+
+custom_app()`
