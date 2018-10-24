@@ -1,7 +1,7 @@
 Installation
 ------------
 
-`devtools::install_github('NicoB-UOL/TopicFunder')`
+`devtools::install_github('NicoB-UOL/demoNetworks')`
 
 Run 
 ------------
