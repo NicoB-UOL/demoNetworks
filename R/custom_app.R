@@ -8,7 +8,7 @@
 
 custom_app <- function(df_network = "random", directed = FALSE, coloring = TRUE){
   ui <- pageWithSidebar(
-    headerPanel(substitute(df)),
+    headerPanel(substitute(df_network)),
     sidebarPanel(useShinyjs(),
                  selectInput("layout", "Layout",
                              c("layout_nicely","layout_in_circle",
