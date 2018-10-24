@@ -6,4 +6,5 @@ Installation
 Run 
 ------------
 `small_world_app()`
+
 `custom_app()`
