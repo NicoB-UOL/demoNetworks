@@ -1,0 +1,16 @@
+Package: demoNetworks
+Title: run demo apps for network analysis
+Version: 0.0.0.9000
+Authors@R: person("Nico", "Blokker", email = "nicoblokker.uol@gmail.com",
+                  role = c("aut", "cre"))
+Description: contains some demo apps for network analysis
+Depends: R (>= 3.5.1) 
+Imports:
+    igraph,
+    visNetwork,
+    shiny,
+    shinyjs
+License: GPL 3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
