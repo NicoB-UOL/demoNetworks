@@ -5,7 +5,7 @@ Installation
 
 Run 
 ------------
-`library(demoNetworks)`
+`library(demoNetworks, quietly = T)`
 
 `small_world_app()`
 
