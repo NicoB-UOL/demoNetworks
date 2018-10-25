@@ -4,7 +4,6 @@ Title: run demo apps for network analysis
 Version: 0.0.0.1
 Author: Nico Blokker
 Description: contains some demo apps for network analysis
-Depends: R (>= 3.4.1) 
 Imports: igraph, visNetwork, shiny, shinyjs
 License: GPL 3
 Encoding: UTF-8
