@@ -2,8 +2,7 @@ Package: demoNetworks
 Type: Package
 Title: run demo apps for network analysis
 Version: 0.0.0.1
-Authors@R: person("Nico", "Blokker", email = "nicoblokker.uol@gmail.com",
-                  role = c("aut", "cre"))
+Author: Nico Blokker
 Description: contains some demo apps for network analysis
 Depends: R (>= 3.4.1) 
 Imports: igraph, visNetwork, shiny, shinyjs
